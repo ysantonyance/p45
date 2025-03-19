@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\zinov\source\repos\conditions (31.03.25)\conditions (31.03.25)\FileName.cpp(134,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  conditions (31.03.25).vcxproj -> C:\Users\zinov\source\repos\conditions (31.03.25)\x64\Debug\conditions (31.03.25).exe
