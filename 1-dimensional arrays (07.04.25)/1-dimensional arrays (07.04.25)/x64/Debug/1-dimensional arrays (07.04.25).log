@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\zinov\source\repos\1-dimensional arrays (07.04.25)\1-dimensional arrays (07.04.25)\FileName.cpp(179,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  1-dimensional arrays (07.04.25).vcxproj -> C:\Users\zinov\source\repos\1-dimensional arrays (07.04.25)\x64\Debug\1-dimensional arrays (07.04.25).exe
