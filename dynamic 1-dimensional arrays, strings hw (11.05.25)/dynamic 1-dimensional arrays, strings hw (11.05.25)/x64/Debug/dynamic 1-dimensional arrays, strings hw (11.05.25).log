@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\zinov\source\repos\dynamic 1-dimensional arrays, strings hw (11.05.25)\dynamic 1-dimensional arrays, strings hw (11.05.25)\dyn_array_functions.h(21,20): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Source.cpp')
+  
+C:\Users\zinov\source\repos\dynamic 1-dimensional arrays, strings hw (11.05.25)\dynamic 1-dimensional arrays, strings hw (11.05.25)\dyn_array_functions.h(29,20): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Source.cpp')
+  
+C:\Users\zinov\source\repos\dynamic 1-dimensional arrays, strings hw (11.05.25)\dynamic 1-dimensional arrays, strings hw (11.05.25)\Source.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  dynamic 1-dimensional arrays, strings hw (11.05.25).vcxproj -> C:\Users\zinov\source\repos\dynamic 1-dimensional arrays, strings hw (11.05.25)\x64\Debug\dynamic 1-dimensional arrays, strings hw (11.05.25).exe
